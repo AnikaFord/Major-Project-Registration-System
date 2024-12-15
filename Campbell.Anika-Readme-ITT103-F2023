@@ -1,0 +1,53 @@
+Name: Anika Campbell
+Date Created: December 12, 2024
+Course: ITT103
+
+GitHub Public URL to Code:
+
+ID Number: 20233566
+Course: Programming Techniques
+Lecturer: Mr. Jonathan Johnson
+Semester: Fall 2024
+
+Overview
+
+This Python program is a menu-driven Student and Course Registration System. The system allows users to manage students, courses, and enrollments while ensuring efficient functionality with a user-friendly interface.
+
+The program should be able to: 
+
+Add Courses: Add new courses with a unique ID, name, and fee.
+
+Register Students: Register students with a unique ID, name, and email address.
+
+Enroll in Courses: Enroll students in specific courses and track their outstanding balance.
+
+Process Payments: Accept partial payments for courses (minimum 40% of the balance) and update the outstanding amount.
+
+Check Balances: View a student's outstanding balance.
+
+Display Information:
+
+Show all available courses.
+
+Show all registered students.
+
+Show students enrolled in a specific course.
+
+Error Handling:
+
+Prevent duplicate course or student entries.
+
+Handle invalid input (e.g., non-numeric values for IDs or fees).
+
+Handle cases where students or courses are not found.
+
+Usage Instructions
+
+1. Run the Program:
+Execute the program either using an online python compiler or a downloaded application such as Visual Studio Code
+
+2. Interact with the Menu:
+
+Select an option by entering the corresponding number then follow prompts to input data.
+
+
